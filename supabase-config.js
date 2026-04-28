@@ -7,8 +7,8 @@
 //  4. Pégalos abajo reemplazando los valores de ejemplo
 // ══════════════════════════════════════════════════
 
-const SUPABASE_URL = 'https://TU-PROYECTO.supabase.co';       // ← reemplaza esto
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR...';       // ← reemplaza esto
+const SUPABASE_URL = 'lwnbjlcqxkoiirbsvcjr';       // ← reemplaza esto
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3bmJqbGNxeGtvaWlyYnN2Y2pyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzczMjYyMjUsImV4cCI6MjA5MjkwMjIyNX0.1zDOKyWR8BxY-Gs1T3NlM6O94frskVzZJQxdaq8E0Mc';       // ← reemplaza esto
 
 // ── Carga el cliente de Supabase desde CDN ──
 (function() {
